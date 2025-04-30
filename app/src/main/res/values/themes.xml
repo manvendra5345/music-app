@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <!-- Your main app theme -->
+    <style name="Theme.Song" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Your colors, fonts, etc -->
+    </style>
+
+    <!-- Your splash screen theme -->
+    <style name="splash_screen" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+
+    </style>
+
+
+</resources>
